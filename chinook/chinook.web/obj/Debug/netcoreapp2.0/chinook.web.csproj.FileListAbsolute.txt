@@ -1,0 +1,10 @@
+E:\_Hussein\projects\Github\HusseinT88\chinook\chinook\chinook.web\bin\Debug\netcoreapp2.0\chinook.web.deps.json
+E:\_Hussein\projects\Github\HusseinT88\chinook\chinook\chinook.web\bin\Debug\netcoreapp2.0\chinook.web.runtimeconfig.json
+E:\_Hussein\projects\Github\HusseinT88\chinook\chinook\chinook.web\bin\Debug\netcoreapp2.0\chinook.web.runtimeconfig.dev.json
+E:\_Hussein\projects\Github\HusseinT88\chinook\chinook\chinook.web\bin\Debug\netcoreapp2.0\chinook.web.dll
+E:\_Hussein\projects\Github\HusseinT88\chinook\chinook\chinook.web\bin\Debug\netcoreapp2.0\chinook.web.pdb
+E:\_Hussein\projects\Github\HusseinT88\chinook\chinook\chinook.web\obj\Debug\netcoreapp2.0\chinook.web.csproj.CoreCompileInputs.cache
+E:\_Hussein\projects\Github\HusseinT88\chinook\chinook\chinook.web\obj\Debug\netcoreapp2.0\chinook.web.AssemblyInfoInputs.cache
+E:\_Hussein\projects\Github\HusseinT88\chinook\chinook\chinook.web\obj\Debug\netcoreapp2.0\chinook.web.AssemblyInfo.cs
+E:\_Hussein\projects\Github\HusseinT88\chinook\chinook\chinook.web\obj\Debug\netcoreapp2.0\chinook.web.dll
+E:\_Hussein\projects\Github\HusseinT88\chinook\chinook\chinook.web\obj\Debug\netcoreapp2.0\chinook.web.pdb

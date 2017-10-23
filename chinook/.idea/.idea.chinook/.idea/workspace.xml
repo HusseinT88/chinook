@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0356ac43-e760-4e0b-a8b9-cae9e436625a" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../../OpenShift/openshiftDemo/app/Models/Extensions.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/chinook.web/Views/Actor/View.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/chinook.web/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/chinook.web/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../OpenShift/openshiftDemo/app/Models/Runner.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../../../OpenShift/openshiftDemo/app/Startup.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/chinook.web/Models/Actor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/chinook.web/Models/Extensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/chinook.web/Models/Runner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/chinook.web/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/chinook.web/Controllers/ActorController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/chinook.web/Views/Actor/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/chinook.web/Models/Extensions.cs" />
+        <option value="$PROJECT_DIR$/chinook.web/Models/Runner.cs" />
+        <option value="$PROJECT_DIR$/chinook.web/Controllers/ActorController.cs" />
+        <option value="$PROJECT_DIR$/chinook.web/Views/Actor/View.cshtml" />
+        <option value="$PROJECT_DIR$/chinook.web/Views/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/chinook.web/Views/Actor/Index.cshtml" />
+        <option value="$PROJECT_DIR$/chinook.web/Startup.cs" />
+        <option value="$PROJECT_DIR$/chinook.web/Models/Actor.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-4" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="chinook (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="chinook (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="chinook.web" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/chinook.web/chinook.web.csproj" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/chinook.web/bin/Debug/netcoreapp2.0/chinook.web.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Production" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0356ac43-e760-4e0b-a8b9-cae9e436625a" name="Default" comment="" />
+      <created>1508744235312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508744235312</updated>
+      <workItem from="1508744236543" duration="59000" />
+      <workItem from="1508744299284" duration="236000" />
+      <workItem from="1508744575934" duration="39000" />
+      <workItem from="1508744663465" duration="4811000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5145000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18381241" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/chinook.web/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <marker date="1508744242531" expanded="false" signature="6:180" ph="..." />
+            <marker date="1508744242531" expanded="true" signature="215:831" ph="{...}" />
+            <marker date="1508744242531" expanded="true" signature="262:829" ph="{...}" />
+            <marker date="1508744242531" expanded="true" signature="305:352" ph="{...}" />
+            <marker date="1508744242531" expanded="true" signature="390:510" ph="{...}" />
+            <marker date="1508744242531" expanded="true" signature="550:654" ph="{...}" />
+            <marker date="1508744242531" expanded="true" signature="692:823" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chinook.web/Models/Actor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="49" lean-forward="false" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+          <folding>
+            <marker date="1508747705307" expanded="true" signature="43:259" ph="{...}" />
+            <marker date="1508747705307" expanded="true" signature="68:257" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chinook.web/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <marker date="1508744242531" expanded="false" signature="6:180" ph="..." />
+            <marker date="1508744242531" expanded="true" signature="215:831" ph="{...}" />
+            <marker date="1508744242531" expanded="true" signature="262:829" ph="{...}" />
+            <marker date="1508744242531" expanded="true" signature="305:352" ph="{...}" />
+            <marker date="1508744242531" expanded="true" signature="390:510" ph="{...}" />
+            <marker date="1508744242531" expanded="true" signature="550:654" ph="{...}" />
+            <marker date="1508744242531" expanded="true" signature="692:823" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chinook.web/Models/Actor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="49" lean-forward="false" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+          <folding>
+            <marker date="1508747705307" expanded="true" signature="43:259" ph="{...}" />
+            <marker date="1508747705307" expanded="true" signature="68:257" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chinook.web/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1508744242531" expanded="false" signature="6:180" ph="..." />
+            <marker date="1508744242531" expanded="true" signature="215:831" ph="{...}" />
+            <marker date="1508744242531" expanded="true" signature="262:829" ph="{...}" />
+            <marker date="1508744242531" expanded="true" signature="305:352" ph="{...}" />
+            <marker date="1508744242531" expanded="true" signature="390:510" ph="{...}" />
+            <marker date="1508744242531" expanded="true" signature="550:654" ph="{...}" />
+            <marker date="1508744242531" expanded="true" signature="692:823" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../OpenShift/openshiftDemo/app/Models/Runner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-210">
+          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chinook.web/Models/Extensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1508746758401" expanded="false" signature="6:135" ph="..." />
+            <marker date="1508746758401" expanded="true" signature="168:2948" ph="{...}" />
+            <marker date="1508746758401" expanded="true" signature="206:2945" ph="{...}" />
+            <marker date="1508746758401" expanded="true" signature="276:837" ph="{...}" />
+            <marker date="1508746758401" expanded="true" signature="437:805" ph="{...}" />
+            <marker date="1508746758401" expanded="true" signature="914:1493" ph="{...}" />
+            <marker date="1508746758401" expanded="true" signature="1066:1458" ph="{...}" />
+            <marker date="1508746758401" expanded="true" signature="1140:1444" ph="{...}" />
+            <marker date="1508746758401" expanded="true" signature="1265:1426" ph="{...}" />
+            <marker date="1508746758401" expanded="true" signature="1573:2508" ph="{...}" />
+            <marker date="1508746758401" expanded="true" signature="1726:1802" ph="{...}" />
+            <marker date="1508746758401" expanded="true" signature="1819:2451" ph="{...}" />
+            <marker date="1508746758401" expanded="true" signature="1862:2437" ph="{...}" />
+            <marker date="1508746758401" expanded="true" signature="2588:2718" ph="{...}" />
+            <marker date="1508746758401" expanded="true" signature="2632:2708" ph="{...}" />
+            <marker date="1508746758401" expanded="true" signature="2806:2939" ph="{...}" />
+            <marker date="1508746758401" expanded="true" signature="2850:2929" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../OpenShift/openshiftDemo/app/Models/Extensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chinook.web/Models/Runner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding>
+            <marker date="1508746817302" expanded="false" signature="6:119" ph="..." />
+            <marker date="1508746817302" expanded="true" signature="152:4706" ph="{...}" />
+            <marker date="1508746817302" expanded="true" signature="190:4703" ph="{...}" />
+            <marker date="1508746817302" expanded="true" signature="299:368" ph="{...}" />
+            <marker date="1508746817302" expanded="true" signature="453:661" ph="{...}" />
+            <marker date="1508746817302" expanded="true" signature="545:621" ph="{...}" />
+            <marker date="1508746817302" expanded="true" signature="746:833" ph="{...}" />
+            <marker date="1508746817302" expanded="true" signature="917:995" ph="{...}" />
+            <marker date="1508746817302" expanded="true" signature="1086:1297" ph="{...}" />
+            <marker date="1508746817302" expanded="true" signature="1178:1257" ph="{...}" />
+            <marker date="1508746817302" expanded="true" signature="1374:1698" ph="{...}" />
+            <marker date="1508746817302" expanded="true" signature="1792:2158" ph="{...}" />
+            <marker date="1508746817302" expanded="true" signature="2243:3291" ph="{...}" />
+            <marker date="1508746817302" expanded="true" signature="2371:3254" ph="{...}" />
+            <marker date="1508746817302" expanded="true" signature="2495:3240" ph="{...}" />
+            <marker date="1508746817302" expanded="true" signature="2537:2934" ph="{...}" />
+            <marker date="1508746817302" expanded="true" signature="2617:2863" ph="{...}" />
+            <marker date="1508746817302" expanded="true" signature="2980:3106" ph="{...}" />
+            <marker date="1508746817302" expanded="true" signature="3134:3222" ph="{...}" />
+            <marker date="1508746817302" expanded="true" signature="3359:4367" ph="{...}" />
+            <marker date="1508746817302" expanded="true" signature="3487:4357" ph="{...}" />
+            <marker date="1508746817302" expanded="true" signature="3600:4312" ph="{...}" />
+            <marker date="1508746817302" expanded="true" signature="3642:4017" ph="{...}" />
+            <marker date="1508746817302" expanded="true" signature="3722:3957" ph="{...}" />
+            <marker date="1508746817302" expanded="true" signature="4063:4178" ph="{...}" />
+            <marker date="1508746817302" expanded="true" signature="4206:4294" ph="{...}" />
+            <marker date="1508746817302" expanded="true" signature="4436:4689" ph="{...}" />
+            <marker date="1508746817302" expanded="true" signature="4588:4655" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chinook.web/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <marker date="1508744242531" expanded="false" signature="6:180" ph="..." />
+            <marker date="1508744242531" expanded="true" signature="215:831" ph="{...}" />
+            <marker date="1508744242531" expanded="true" signature="262:829" ph="{...}" />
+            <marker date="1508744242531" expanded="true" signature="305:352" ph="{...}" />
+            <marker date="1508744242531" expanded="true" signature="390:510" ph="{...}" />
+            <marker date="1508744242531" expanded="true" signature="550:654" ph="{...}" />
+            <marker date="1508744242531" expanded="true" signature="692:823" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chinook.web/Views/Actor/View.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="31" column="6" lean-forward="false" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+          <folding>
+            <marker date="1508747714478" expanded="true" signature="14:82" ph="@..." />
+            <marker date="1508747714478" expanded="true" signature="104:817" ph="&lt;div.../&gt;" />
+            <marker date="1508747714478" expanded="true" signature="138:810" ph="&lt;div.../&gt;" />
+            <marker date="1508747714478" expanded="true" signature="164:799" ph="&lt;div.../&gt;" />
+            <marker date="1508747714478" expanded="true" signature="199:784" ph="&lt;table.../&gt;" />
+            <marker date="1508747714478" expanded="true" signature="268:494" ph="&lt;thead.../&gt;" />
+            <marker date="1508747714478" expanded="true" signature="292:469" ph="&lt;tr.../&gt;" />
+            <marker date="1508747714478" expanded="true" signature="511:763" ph="&lt;tbody.../&gt;" />
+            <marker date="1508747714478" expanded="true" signature="535:738" ph="&lt;tr.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chinook.web/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="87" lean-forward="false" selection-start-line="35" selection-start-column="87" selection-end-line="35" selection-end-column="87" />
+          <folding>
+            <marker date="1508747473608" expanded="true" signature="16:3419" ph="&lt;html.../&gt;" />
+            <marker date="1508747473608" expanded="true" signature="23:845" ph="&lt;head.../&gt;" />
+            <marker date="1508747473608" expanded="true" signature="193:383" ph="&lt;environment.../&gt;" />
+            <marker date="1508747473608" expanded="true" signature="388:837" ph="&lt;environment.../&gt;" />
+            <marker date="1508747473608" expanded="true" signature="846:3411" ph="&lt;body.../&gt;" />
+            <marker date="1508747473608" expanded="true" signature="857:2017" ph="&lt;nav.../&gt;" />
+            <marker date="1508747473608" expanded="true" signature="918:2006" ph="&lt;div.../&gt;" />
+            <marker date="1508747473608" expanded="true" signature="954:1470" ph="&lt;div.../&gt;" />
+            <marker date="1508747473608" expanded="true" signature="998:1342" ph="&lt;button.../&gt;" />
+            <marker date="1508747473608" expanded="true" signature="1483:1991" ph="&lt;div.../&gt;" />
+            <marker date="1508747473608" expanded="true" signature="1538:1972" ph="&lt;ul.../&gt;" />
+            <marker date="1508747473608" expanded="true" signature="2022:2186" ph="&lt;div.../&gt;" />
+            <marker date="1508747473608" expanded="true" signature="2104:2175" ph="&lt;footer.../&gt;" />
+            <marker date="1508747473608" expanded="true" signature="2192:2446" ph="&lt;environment.../&gt;" />
+            <marker date="1508747473608" expanded="true" signature="2451:3355" ph="&lt;environment.../&gt;" />
+            <marker date="1508747473608" expanded="true" signature="2495:2843" ph="&lt;script.../&gt;" />
+            <marker date="1508747473608" expanded="true" signature="2852:3261" ph="&lt;script.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chinook.web/Views/Actor/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="23" column="95" lean-forward="false" selection-start-line="23" selection-start-column="95" selection-end-line="23" selection-end-column="95" />
+          <folding>
+            <marker date="1508747714479" expanded="true" signature="73:142" ph="@..." />
+            <marker date="1508747714479" expanded="true" signature="177:1069" ph="&lt;div.../&gt;" />
+            <marker date="1508747714479" expanded="true" signature="211:1062" ph="&lt;div.../&gt;" />
+            <marker date="1508747714479" expanded="true" signature="237:1051" ph="&lt;div.../&gt;" />
+            <marker date="1508747714479" expanded="true" signature="272:1036" ph="&lt;table.../&gt;" />
+            <marker date="1508747714479" expanded="true" signature="341:567" ph="&lt;thead.../&gt;" />
+            <marker date="1508747714479" expanded="true" signature="365:542" ph="&lt;tr.../&gt;" />
+            <marker date="1508747714479" expanded="true" signature="584:1015" ph="&lt;tbody.../&gt;" />
+            <marker date="1508747714479" expanded="true" signature="608:990" ph="@..." />
+            <marker date="1508747714479" expanded="true" signature="637:990" ph="{...}" />
+            <marker date="1508747714479" expanded="true" signature="676:972" ph="&lt;tr.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chinook.web/Controllers/ActorController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="27" column="22" lean-forward="false" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <folding>
+            <marker date="1508747243790" expanded="true" signature="6:57" ph="..." />
+            <marker date="1508747243790" expanded="true" signature="92:968" ph="{...}" />
+            <marker date="1508747243790" expanded="true" signature="140:966" ph="{...}" />
+            <marker date="1508747243790" expanded="true" signature="236:286" ph="{...}" />
+            <marker date="1508747243790" expanded="true" signature="338:617" ph="{...}" />
+            <marker date="1508747243790" expanded="true" signature="660:960" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../OpenShift/openshiftDemo/app/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chinook.web/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <marker date="1508747622240" expanded="false" signature="6:284" ph="..." />
+            <marker date="1508747622240" expanded="true" signature="307:1550" ph="{...}" />
+            <marker date="1508747622240" expanded="true" signature="334:1548" ph="{...}" />
+            <marker date="1508747622240" expanded="true" signature="393:456" ph="{...}" />
+            <marker date="1508747622240" expanded="true" signature="679:877" ph="{...}" />
+            <marker date="1508747622240" expanded="true" signature="1065:1542" ph="{...}" />
+            <marker date="1508747622240" expanded="true" signature="1112:1189" ph="{...}" />
+            <marker date="1508747622240" expanded="true" signature="1206:1290" ph="{...}" />
+            <marker date="1508747622240" expanded="true" signature="1359:1530" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chinook.web/Models/Actor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <marker date="1508747705307" expanded="true" signature="43:259" ph="{...}" />
+            <marker date="1508747705307" expanded="true" signature="68:257" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

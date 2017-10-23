@@ -1,0 +1,34 @@
+﻿@model System.Collections.Generic.IEnumerable<chinook.web.Models.Actor>
+
+@{
+    ViewBag.Title = "Chinook :: Actors";
+    Layout = "_Layout";
+}
+<h2>Actors :: @Model.Count()</h2>
+<div class="Container-fluid">
+    <div class="row">
+        <div class="col-md-6">
+            <table class="table table-striped table-responsive">
+                <thead>
+                <tr>
+                    <td>#</td>
+                    <td>First Name</td>
+                    <td>Last Name</td>
+                    <td>Last Update</td>
+                </tr>
+                </thead>
+                <tbody>
+                @foreach (var actor in Model)
+                {
+                    <tr>
+                        <td><a asp-controller="Actor" asp-action="View" asp-route-id="@actor.Id">@actor.Id</a></td>
+                        <td>@actor.FirstName</td>
+                        <td>@actor.LastName</td>
+                        <td>@actor.LastUpdate</td>
+                    </tr>
+                }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

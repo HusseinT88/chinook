@@ -1,0 +1,32 @@
+﻿@model Actor
+
+@{
+    ViewBag.Title = "Chinook :: Actor";
+    Layout = "_Layout";
+}
+
+<h2>Actor-View</h2>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-6">
+            <table class="table table-responsive table-striped">
+                <thead>
+                <tr>
+                    <th>#</th>
+                    <th>First Name</th>
+                    <th>Last Name</th>
+                    <th>Last Update</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td>@Model.Id</td>
+                    <td>@Model.FirstName</td>
+                    <td>@Model.LastName</td>
+                    <td>@Model.LastUpdate</td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
