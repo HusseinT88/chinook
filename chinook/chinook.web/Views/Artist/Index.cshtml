@@ -17,7 +17,7 @@
     @foreach (var artist in Model)
     {
         <tr>
-            <td><a asp-action="View" asp-controller="Artist" asp-route-id="@artist.Idg">@artist.Id</a></td>
+            <td><a asp-action="View" asp-controller="Artist" asp-route-id="@artist.Id">@artist.Id</a></td>
             <td>@artist.Name</td>
         </tr>
     }
