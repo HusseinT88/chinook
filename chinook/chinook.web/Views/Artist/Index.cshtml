@@ -1,0 +1,25 @@
+﻿@model System.Collections.Generic.IEnumerable<chinook.web.Models.Artist>
+
+@{
+    ViewBag.Title = "Chinook :: Artist";
+    Layout = "_Layout";
+}
+
+<h2>@Model.Count() Artists</h2>
+<table class="table table-responsive table-striped">
+    <thead>
+    <tr>
+        <th>#</th>
+        <th>Name</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var artist in Model)
+    {
+        <tr>
+            <td><a asp-action="View" asp-controller="Artist" asp-route-id="@artist.Idg">@artist.Id</a></td>
+            <td>@artist.Name</td>
+        </tr>
+    }
+    </tbody>
+</table>

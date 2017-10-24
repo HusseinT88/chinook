@@ -23,7 +23,6 @@ namespace chinook.web.Models
             }
             reader.Dispose();
         }
-
         public dynamic ExecuteToSingleDynamic(string command, params object[] args)
         {
             return ExecuteDynamic(command, args).FirstOrDefault();

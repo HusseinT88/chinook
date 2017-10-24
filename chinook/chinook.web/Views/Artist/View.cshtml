@@ -1,0 +1,27 @@
+﻿@model Artist
+
+@{
+    ViewBag.Title = "Chinook :: Artist";
+    Layout = "_Layout";
+}
+
+<h2>Artist # @Model.Id</h2>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-offset2 col-md-6">
+            <table class="table table-striped table-responsive">
+                <thead>
+                <tr>
+                    <th>#</th>
+                    <th>Name</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td>@Model.Id</td>
+                    <td>@Model.Name</td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+    </div></div>
